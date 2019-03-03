@@ -63,6 +63,7 @@
   <ItemGroup>
     <Compile Include="Helpers\EntityRecordUrlHelpers.cs" />
     <Compile Include="Helpers\EntityHelpers.cs" />
+    <Compile Include="PopulatePhoneNumberOnPhoneCall.cs" />
     <Compile Include="RecordHasNoteAttachment.cs" />
     <Compile Include="WorkFlowActivityBase.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />

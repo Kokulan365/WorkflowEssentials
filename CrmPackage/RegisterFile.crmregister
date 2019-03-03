@@ -5,6 +5,7 @@
       <WorkflowTypes>
         <clear />
         <WorkflowType FriendlyName="Record Has Note Attachment" Name="RecordHasNoteAttachment" Description="Record Has Note Attachment" WorkflowActivityGroupName="KED365.Workflow.Essentials" WorkflowActivityProjectName="Workflows" Id="00000000-0000-0000-0000-000000000000" TypeName="KED365.Workflows.RecordHasNoteAttachment" />
+        <WorkflowType FriendlyName="Populate Phone Number On PhoneCall" Name="PopulatePhoneNumberOnPhoneCall" Description="Populate Phone Number On PhoneCall" WorkflowActivityGroupName="KED365.Workflow.Essentials" WorkflowActivityProjectName="Workflows" Id="00000000-0000-0000-0000-000000000000" TypeName="KED365.Workflows.PopulatePhoneNumberOnPhoneCall" />
       </WorkflowTypes>
     </Solution>
   </Solutions>
